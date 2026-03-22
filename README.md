@@ -1,4 +1,4 @@
-# Homework #2: Cartoon Rendering
+# Free_Cartoonization : Using Kmeans and Blur
 
 ## 알고리즘 설명
 
